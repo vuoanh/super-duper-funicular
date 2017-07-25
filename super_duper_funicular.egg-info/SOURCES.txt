@@ -1,0 +1,9 @@
+setup.py
+super_duper_funicular/__init__.py
+super_duper_funicular/math.py
+super_duper_funicular.egg-info/PKG-INFO
+super_duper_funicular.egg-info/SOURCES.txt
+super_duper_funicular.egg-info/dependency_links.txt
+super_duper_funicular.egg-info/requires.txt
+super_duper_funicular.egg-info/top_level.txt
+super_duper_funicular.egg-info/zip-safe
